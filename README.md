@@ -1,5 +1,8 @@
 **Algoritmo genético para minimización el desperdicio en cortes de perfiles de aluminio**
 
+Vista previa 
+![vista previa interfaz](https://github.com/Eduardishion/algoritomoGeneticoCortesAluminio/blob/master/ima.png)
+
 ```
 Objetivo específicos
 •	poder minimizar el desperdicio del aluminio 
