@@ -1,5 +1,17 @@
 **Algoritmo genético para minimización el desperdicio en cortes de perfiles de aluminio**
 
+Toda la teoría usada para realizar este proyecto se lo debo a mi asesor de tesis el:
+
+- Dr. René Arnulfo García Hernández, profesor de tiempo completo en la Universidad Autónoma de Estado de México UAEM, Unidad Académica Profesional Tianguistenco UAPT.
+
+Donde la verdad le tengo un gran respeto por tanto que me ha enseñado en estos últimos años y podemos consultar su curriculum académico a traves de :https://scholar.google.com.mx/citations?user=-QqpljYAAAAJ&hl=es
+
+y algunos de los libros de donde me baso completamente a su teoria son:
+
+- Generación automática de resúmenesRetos, propuestas y experimentosAutomatic Generation of Text SummariesChallenges, proposals and experiments, Yulia Nikolaevna Ledeneva, René Arnulfo García Hernández.
+
+Donde propone la utilización de algoritmos genéticos para la resolución de problemas de optimación.
+
 Vista previa 
 ![vista previa interfaz](https://github.com/Eduardishion/algoritomoGeneticoCortesAluminio/blob/master/ima.png)
 
