@@ -1,4 +1,4 @@
-**Algoritmo genético para minimización el desperdicio en cortes de perfiles de aluminio**
+**Algoritmo genético para minimización de desperdicio en cortes de perfiles de aluminio**
 
 Toda la teoría usada para realizar este proyecto se lo debo a mi asesor de tesis el:
 
