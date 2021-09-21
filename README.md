@@ -1,6 +1,6 @@
 **Algoritmo genético para minimización de desperdicio en cortes de perfiles de aluminio**
 
-Toda la teoría usada para realizar este proyecto se lo debo a mi asesor de tesis el:
+Toda la teoría usada para realizar este proyecto se lo debo a mi asesor de tesis y la meateria que imparte Computo evolutivo:
 
 - Dr. René Arnulfo García Hernández, profesor de tiempo completo en la Universidad Autónoma de Estado de México UAEM, Unidad Académica Profesional Tianguistenco UAPT.
 
